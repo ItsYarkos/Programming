@@ -1,5 +1,5 @@
 # Programming
-Private repository for Programming
+Public repository for studying in СПБКИТ
 
 ## Выполненные задания:
 ### Предмет: Основы алгоритмизации и программирования:
